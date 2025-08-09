@@ -1,10 +1,52 @@
-👋 Hi, I’m @shorya27
-👀 I’m interested in blockchain, AI/ML, optimization, and web development.
-🌱 I’m currently learning advanced blockchain integrations, Ethereum development, and machine learning for predictive modeling.
-💞️ I’m looking to collaborate on blockchain dApps, AI-powered analytics, and consulting projects.
-📫 How to reach me: You can connect with me via LinkedIn or GitHub.
-😄 Pronouns: He/Him
-<!---
-shorya27/shorya27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Shorya 👋
+
+🚀 **Blockchain Enthusiast | Full Stack Developer | Problem Solver**  
+
+I’m passionate about building **decentralized applications (dApps)** and **scalable full-stack solutions** that solve real-world problems.  
+Currently diving deep into **Ethereum, Solana, Hyperledger**, and exploring cutting-edge blockchain infrastructure while also crafting **end-to-end web apps**.
+
+---
+
+## 🔗 About Me
+- 🛠 Skilled in **JavaScript, Python, C++, Solidity, Rust**
+- 🌐 Building with **React, Node.js, Express, MongoDB**
+- ⛓ Experienced in **Smart Contracts, Web3.js, ethers.js, DeFi protocols**
+- 📊 Strong problem-solving background
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)  
+![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logo=rust)  
+![Solidity](https://img.shields.io/badge/-Solidity-333?style=flat&logo=solidity)  
+
+**Frameworks & Tools:**  
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=nodedotjs)  
+![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)  
+
+**Blockchain:**  
+![Ethereum](https://img.shields.io/badge/-Ethereum-333?style=flat&logo=ethereum)  
+![Solana](https://img.shields.io/badge/-Solana-333?style=flat&logo=solana)  
+![IPFS](https://img.shields.io/badge/-IPFS-333?style=flat&logo=ipfs)  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shorya&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shorya&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](edin.com/in/shorya-kshettry-b7b196285/)  
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
