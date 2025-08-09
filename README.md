@@ -39,7 +39,3 @@ Currently diving deep into **Ethereum, Solana, Hyperledger**, and exploring cutt
 
 ## 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](edin.com/in/shorya-kshettry-b7b196285/)  
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
