@@ -39,8 +39,8 @@ Currently diving deep into **Ethereum, Solana, Hyperledger**, and exploring cutt
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shorya&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shorya&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shorya27&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shorya27&layout=compact&theme=tokyonight)
 
 ---
 
