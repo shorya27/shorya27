@@ -37,13 +37,6 @@ Currently diving deep into **Ethereum, Solana, Hyperledger**, and exploring cutt
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shorya27&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shorya27&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](edin.com/in/shorya-kshettry-b7b196285/)  
 
